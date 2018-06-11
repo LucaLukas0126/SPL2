@@ -1,0 +1,8 @@
+#Python1.py
+
+zahl 1 = input("Bitte erste Zahl eingeben")
+zahl 2 = input("Bitte zweite Zahl eingeben")
+zahl 3 = input("Bitte dritte Zahl eingeben")
+
+if(zahl1 < zahl2 < zahl3):
+    print()
